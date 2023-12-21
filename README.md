@@ -1,5 +1,7 @@
 # Semantic-Segmentation
 
+![image](https://github.com/HannaRF/Semantic-Segmentation/assets/85463854/d3845a35-805d-4d58-a2b4-76ebf4701596)
+
 **Objetivo:**
 - Implementar uma Rede U-Net para realizar segmentação semântica em imagens.
 
